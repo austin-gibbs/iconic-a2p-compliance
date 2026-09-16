@@ -8,14 +8,27 @@ Draft preview for Aria deploy/verify and carrier A2P citation. **Production will
 
 This is a **separate** compliance preview from the main Astro marketing site.
 
-## Pages
+## Public preview (raw.githack)
+
+Base: https://raw.githack.com/austin-gibbs/iconic-a2p-compliance/main/
+
+| Path | URL |
+|------|-----|
+| Hub | https://raw.githack.com/austin-gibbs/iconic-a2p-compliance/main/ |
+| Privacy | https://raw.githack.com/austin-gibbs/iconic-a2p-compliance/main/privacy/ |
+| Terms | https://raw.githack.com/austin-gibbs/iconic-a2p-compliance/main/terms/ |
+| SMS | https://raw.githack.com/austin-gibbs/iconic-a2p-compliance/main/sms/ |
+
+Repo: https://github.com/austin-gibbs/iconic-a2p-compliance
+
+## Pages (in repo)
 
 | Path | Description |
 |------|-------------|
 | `/` or `/index.html` | Hub linking to legal pages |
-| `/privacy/` (also `privacy.html`) | Privacy Policy |
-| `/terms/` (also `terms.html`) | Terms of Use |
-| `/sms/` (also `sms.html`) | SMS / Messaging Disclosure |
+| `/privacy/` | Privacy Policy |
+| `/terms/` | Terms of Use |
+| `/sms/` | SMS / Messaging Disclosure |
 
 ## Client facts (reference)
 
